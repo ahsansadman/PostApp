@@ -6,10 +6,9 @@
 ```    
     pip3 install -r requirements.txt<br> 
     python3 manage.py runserver<br>
-    
-    superuser = {
+      
+```
+superuser = {
     email : admin@gmail.com, 
     password : admin
     }
-    
-```
