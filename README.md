@@ -7,6 +7,9 @@
     pip3 install -r requirements.txt<br> 
     python3 manage.py runserver<br>
     
-    #(superuser = email : admin@gmail.com, password : admin)
+    superuser = {
+    email : admin@gmail.com, 
+    password : admin
+    }
     
 ```
