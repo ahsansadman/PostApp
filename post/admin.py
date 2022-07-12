@@ -12,8 +12,3 @@ class PostAdmin(admin.ModelAdmin):
 admin.site.register(Post, PostAdmin)
 
 
-# class TagAdmin(admin.ModelAdmin):
-#     search_fields = ('name',)
-
-
-
